@@ -8,7 +8,7 @@ Page component is used for managing web pages, including ther URL, etc.It also i
 
 ### Prerequisites
 
-Laflux platform : http://www.github.com/LaFlux/LaFlux. Checkout the demo of Laflux: Front end(http://demo.laflux.com/), Back end(http://demo.laflux.com/admin/dashboard)
+Laflux platform : http://www.github.com/LaFlux/LaFlux. Checkout the demo of Laflux: [Front end demo](http://demo.laflux.com/), [Back end demo](http://demo.laflux.com/admin/dashboard)
 
 ### Installing
 
@@ -49,5 +49,36 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Laflux platform Documentation - [Documentation](http://docs.laflux.com/)
 * Updates - Pull this repository for latest updates
 * Premium Version of Laflux - [Premium Version](http://extensionsvalley.com/downloads/laravel-admin-dashboard/)
+
+Premium Version features:
+    100% Upgrade Guaranteed
+    Laravel 5.2 or 5.3 to Kick Start
+    User Management
+    User Groups Management
+    Powerful Access Control Logic (ACL)
+    Inbuilt Data Tables Support
+    Easy CRUD Management
+    Extension Manager for integrating many packages
+    Data Export options for all Tables
+    Rapid Customization Options
+    Full Admin Theme
+    Clean and Professional UI
+    Inbuilt CSS3, HTML5, Bootstrap Support
+    Free Lifetime Updates
+    Comparable with All-Modern-Browsers
+    Multiple Icon Fonts
+    Retina-Ready Design
+Pages Included:
+    Dashboard
+    Widgets
+    Log In
+    Log Out
+    Forgot Password
+    Profile
+    Generaral Settings
+    Users and User Group Tables
+    CRUD Pages for all tables
+    And many more (Checkout Screen Shots and Video Tutorials)
+
 
 
