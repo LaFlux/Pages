@@ -16,7 +16,8 @@ class PagesSeeder extends Seeder
                      $data = [
                         'name' => 'Pages'
                         ,'vendor' => 'ExtensionValley'
-                        ,'description' => 'laflux-component'
+                        ,'description' => 'Page component for laflux'
+                        ,'package_type' => 'laflux-component'
                         ,'version' => '1.0.0'
                         ,'is_paid' => '0'
                         ,'status' => 0
