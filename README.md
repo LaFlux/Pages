@@ -8,7 +8,7 @@ Page component is used for managing web pages, including ther URL, etc.It also i
 
 ### Prerequisites
 
-Laflux platform : http://www.github.com/LaFlux/LaFlux. Checkout the demo of Laflux: [Front end demo](http://demo.laflux.com/), [Back end demo](http://demo.laflux.com/admin/dashboard)
+Laflux platform : http://www.github.com/Laflux/Laflux. Checkout the demo of Laflux: [Front end demo](http://demo.laflux.com/), [Back end demo](http://demo.laflux.com/admin/dashboard)
 
 ### Installing
 
@@ -24,6 +24,12 @@ Clone the repository in to the Directory, root directory/packages/ExtensionsVall
 php artisan vendor:publish 
 php artisan migrate
 composer dumpautoload -o
+```
+
+If you add this repository as a submodule, you can automatically update the repository, whenever there is a new update.To add this repository as a submodule, go to the root directory of Laflux and run the following command:
+
+```
+git submodule add https://github.com/LaFlux/Pages.git
 ```
 
 ## Deployment
