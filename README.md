@@ -29,7 +29,11 @@ composer dumpautoload -o
 If you add this repository as a submodule, you can automatically update the repository, whenever there is a new update.To add this repository as a submodule, go to the root directory of Laflux and run the following command:
 
 ```
-git submodule add https://github.com/LaFlux/Pages.git
+git submodule add https://github.com/LaFlux/Pages.git packages/ExtensionsValley/Pages/
+
+php artisan vendor:publish 
+php artisan db:seed --class=PagesSeeder
+composer dumpautoload -o
 ```
 
 ## Deployment
